@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "A Random Quote Generator",
+            "description": "A program that displays a randomly selected quote each time the user clicks a button.",
+            "technologies": ["CSS","HTML","JS"],
+            "live_link": "https://klwin.github.io/a_random_quote_generator-v1/",
+            "github_link": "https://github.com/klwin/a_random_quote_generator-v1",
+            "image_urls": ["/images/a-random-quote-generator-small.png","/images/a-random-quote-generator-large.png"]
+        },
+        {
+            "id": 1,
+            "project_name": "Data Pagination and Filtering",
+            "description": "Display several “pages” of student data that the user can easily navigate and view.",
+            "technologies": ["CSS","HTML","JS"],
+            "live_link": "https://klwin.github.io/data-pagination-and-filtering-v1/",
+            "github_link": "https://github.com/klwin/data-pagination-and-filtering-v1",
+            "image_urls": ["/images/data-pagination-and-filter-small.png","/images/data-pagination-and-filter-large.png"]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Enhance a form so that it’s engaging, interactive, and easy to use.",
+            "technologies": ["CSS","HTML","JS"],
+            "live_link": "https://klwin.github.io/interactive-form-v3/",
+            "github_link": "https://github.com/klwin/interactive-form-v3",
+            "image_urls": ["/images/interactive-form-small.png","/images/interactive-form-large.png"]            
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "A player tries to guess the phrase by selecting individual letters from an onscreen keyboard. Can they guess the phrase before they run out of attempts?",
+            "technologies": ["CSS","HTML","JS"],
+            "live_link": "https://klwin.github.io/oop_game-v2/",
+            "github_link": "https://github.com/klwin/oop_game-v2",
+            "image_urls": ["/images/oop-game-show-app-small.png","/images/oop-game-show-app-large.png"]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "Create an employee directory by communicating with a third-party API (Application Programming Interface).",
+            "technologies": ["CSS","HTML","JS","AJAX"],
+            "live_link": "https://klwin.github.io/public_api_request-v1/",
+            "github_link": "https://github.com/klwin/public_api_request-v1",
+            "image_urls": ["/images/public-api-request-small.png","/images/public-api-request-large.png"]
+        }
+    ]
+}
